@@ -11,7 +11,7 @@
 *
 */
 
-exports.server = 'roleplayserver-lustyash.c9users.io';
+exports.server = 'dedicatedrpserver-lustyash.c9users.io';
 
 exports.port = 80;
 
@@ -44,7 +44,7 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'Cuteness Mia';
+exports.nick = 'Roleplay BoTTT';
 
 exports.pass = 'aaaaaa';
 
